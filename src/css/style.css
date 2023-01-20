@@ -71,6 +71,7 @@ body {
 }
 
 .fundo-video{
+    background-color: red;
     position: absolute;
     z-index: -1;
     width: 100vw;
