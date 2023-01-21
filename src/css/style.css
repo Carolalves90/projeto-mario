@@ -136,3 +136,10 @@ body {
     opacity: 1;
     visibility: visible;
 }
+
+footer{
+    color: white;
+    background-color: black;
+    padding: 2em;
+    text-align: center;
+}
